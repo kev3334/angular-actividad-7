@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: rgb(240, 96, 96);
+    height: 40px;
+    
+}
+.nav-link{
+    color: white;
+    margin: 25px;
+}
